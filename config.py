@@ -1,3 +1,5 @@
+
+
 DEVICE = torch.device("cuda")
 EPOCHS = 25
 BATCH_SIZE = 128
